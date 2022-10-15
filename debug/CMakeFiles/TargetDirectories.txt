@@ -1,0 +1,3 @@
+/home/josmarquev/Documents/lab/debug/CMakeFiles/lab.dir
+/home/josmarquev/Documents/lab/debug/CMakeFiles/edit_cache.dir
+/home/josmarquev/Documents/lab/debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.22)
+project(Laboratory)
+file(GLOB_RECURSE sources CONFIGURE_DEPENDS "src/**.c")
+file(GLOB_RECURSE headers CONFIGURE_DEPENDS "src/**.h")
+message(STATUS "sources: " ${sources})
+message(STATUS "headers: " ${headers})
+add_executable(lab ${sources} ${headers})

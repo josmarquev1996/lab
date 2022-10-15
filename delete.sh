@@ -1,1 +1,1 @@
-rm -r debug
+rm -r temp
